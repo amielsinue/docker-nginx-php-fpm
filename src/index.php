@@ -12,7 +12,10 @@
 	</head>
 <body>
 	<div class="container text-center">
-  	<h1>Hello Gigwalk World!</h1>
+	  	<h1>Hello Gigwalk World!</h1>
+	  	<div class="well">
+	  	<?php phpinfo();?>
+	  	</div>
 	</div>
 </body>
 </html>
