@@ -13,6 +13,7 @@
 <body>
 	<div class="container text-center">
 	  	<h1>Hello Gigwalk World!</h1>
+		<h2><?=gethostname()?></h2>
 	  	<div class="well">
 	  	<?php phpinfo();?>
 	  	</div>
